@@ -38,3 +38,5 @@ python main.py
 📄 Licença
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir.
+
+*Já notei alguns bugs, se tiver algum arquivo com o nome "video.mp4" dá um erro mas agora estou focado em outro projeto e por hora não irei arrumar, mas futuramente pretendo ajustar algumas coisas que me incomodam e corrigir esses detalhes.
